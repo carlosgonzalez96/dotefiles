@@ -1,2 +1,2 @@
-<h1>Dotfiles</h1>
-<p>configurations files</p>
+<h1>Carlos' Dotfiles</h1>
+<p>My personal configurations files</p>
